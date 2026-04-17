@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python strategies.py)",
+      "Bash(python scheduler.py)",
+      "Bash(python simulator.py)"
+    ]
+  }
+}

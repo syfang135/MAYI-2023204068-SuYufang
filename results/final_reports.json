@@ -1,0 +1,470 @@
+{
+  "baseline_fifo": {
+    "high_avg_wait_time": 0.0,
+    "high_p95_wait_time": 0.0,
+    "high_completion_rate": 0.875,
+    "normal_max_wait_time": 0.0,
+    "normal_wait_time_variance": 0.0,
+    "starving_jobs_count": 0,
+    "normal_completion_rate": 0.0,
+    "avg_utilization": 0.16666666666666666,
+    "peak_utilization": 0.4,
+    "total_preemptions": 0,
+    "total_failures": 0,
+    "utilization_timeline": [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        30.601808618244032,
+        0.0
+      ],
+      [
+        87.70447659678656,
+        0.4
+      ],
+      [
+        120.96277553226263,
+        0.3
+      ],
+      [
+        154.25221383811441,
+        0.1
+      ],
+      [
+        292.98575275108794,
+        0.1
+      ],
+      [
+        340.6300573074013,
+        0.2
+      ],
+      [
+        377.329410756463,
+        0.2
+      ],
+      [
+        480.0,
+        0.2
+      ]
+    ],
+    "queue_length_timeline": [
+      [
+        0.0,
+        0
+      ],
+      [
+        30.601808618244032,
+        0
+      ],
+      [
+        87.70447659678656,
+        0
+      ],
+      [
+        120.96277553226263,
+        0
+      ],
+      [
+        154.25221383811441,
+        0
+      ],
+      [
+        292.98575275108794,
+        0
+      ],
+      [
+        340.6300573074013,
+        0
+      ],
+      [
+        377.329410756463,
+        0
+      ],
+      [
+        480.0,
+        0
+      ]
+    ],
+    "strategy_name": "baseline_fifo",
+    "simulation_duration": 480,
+    "random_seed": null
+  },
+  "baseline_hrrn_preempt": {
+    "high_avg_wait_time": 0.0,
+    "high_p95_wait_time": 0.0,
+    "high_completion_rate": 0.875,
+    "normal_max_wait_time": 0.0,
+    "normal_wait_time_variance": 0.0,
+    "starving_jobs_count": 0,
+    "normal_completion_rate": 0.0,
+    "avg_utilization": 0.16666666666666666,
+    "peak_utilization": 0.4,
+    "total_preemptions": 0,
+    "total_failures": 0,
+    "utilization_timeline": [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        30.601808618244032,
+        0.0
+      ],
+      [
+        87.70447659678656,
+        0.4
+      ],
+      [
+        120.96277553226263,
+        0.3
+      ],
+      [
+        154.25221383811441,
+        0.1
+      ],
+      [
+        292.98575275108794,
+        0.1
+      ],
+      [
+        340.6300573074013,
+        0.2
+      ],
+      [
+        377.329410756463,
+        0.2
+      ],
+      [
+        480.0,
+        0.2
+      ]
+    ],
+    "queue_length_timeline": [
+      [
+        0.0,
+        0
+      ],
+      [
+        30.601808618244032,
+        0
+      ],
+      [
+        87.70447659678656,
+        0
+      ],
+      [
+        120.96277553226263,
+        0
+      ],
+      [
+        154.25221383811441,
+        0
+      ],
+      [
+        292.98575275108794,
+        0
+      ],
+      [
+        340.6300573074013,
+        0
+      ],
+      [
+        377.329410756463,
+        0
+      ],
+      [
+        480.0,
+        0
+      ]
+    ],
+    "strategy_name": "baseline_hrrn_preempt",
+    "simulation_duration": 480,
+    "random_seed": null
+  },
+  "peak_hrrn_preempt_peak": {
+    "high_avg_wait_time": 0.0,
+    "high_p95_wait_time": 0.0,
+    "high_completion_rate": 1.0,
+    "normal_max_wait_time": 0.0,
+    "normal_wait_time_variance": 0.0,
+    "starving_jobs_count": 0,
+    "normal_completion_rate": 0.0,
+    "avg_utilization": 0.15,
+    "peak_utilization": 0.4,
+    "total_preemptions": 0,
+    "total_failures": 0,
+    "utilization_timeline": [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        30.601808618244032,
+        0.0
+      ],
+      [
+        87.70447659678656,
+        0.4
+      ],
+      [
+        120.96277553226263,
+        0.3
+      ],
+      [
+        154.25221383811441,
+        0.1
+      ],
+      [
+        292.98575275108794,
+        0.1
+      ],
+      [
+        340.6300573074013,
+        0.2
+      ],
+      [
+        377.329410756463,
+        0.2
+      ],
+      [
+        553.5916906210499,
+        0.2
+      ],
+      [
+        960.0,
+        0.0
+      ]
+    ],
+    "queue_length_timeline": [
+      [
+        0.0,
+        0
+      ],
+      [
+        30.601808618244032,
+        0
+      ],
+      [
+        87.70447659678656,
+        0
+      ],
+      [
+        120.96277553226263,
+        0
+      ],
+      [
+        154.25221383811441,
+        0
+      ],
+      [
+        292.98575275108794,
+        0
+      ],
+      [
+        340.6300573074013,
+        0
+      ],
+      [
+        377.329410756463,
+        0
+      ],
+      [
+        553.5916906210499,
+        0
+      ],
+      [
+        960.0,
+        0
+      ]
+    ],
+    "strategy_name": "peak_hrrn_preempt_peak",
+    "simulation_duration": 480,
+    "random_seed": null
+  },
+  "failure_hrrn_preempt_failure": {
+    "high_avg_wait_time": 0.0,
+    "high_p95_wait_time": 0.0,
+    "high_completion_rate": 1.0,
+    "normal_max_wait_time": 0.0,
+    "normal_wait_time_variance": 0.0,
+    "starving_jobs_count": 0,
+    "normal_completion_rate": 0.0,
+    "avg_utilization": 0.15,
+    "peak_utilization": 0.4,
+    "total_preemptions": 0,
+    "total_failures": 0,
+    "utilization_timeline": [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        30.601808618244032,
+        0.0
+      ],
+      [
+        87.70447659678656,
+        0.4
+      ],
+      [
+        120.96277553226263,
+        0.3
+      ],
+      [
+        154.25221383811441,
+        0.1
+      ],
+      [
+        292.98575275108794,
+        0.1
+      ],
+      [
+        340.6300573074013,
+        0.2
+      ],
+      [
+        377.329410756463,
+        0.2
+      ],
+      [
+        553.5916906210499,
+        0.2
+      ],
+      [
+        1440.0,
+        0.0
+      ]
+    ],
+    "queue_length_timeline": [
+      [
+        0.0,
+        0
+      ],
+      [
+        30.601808618244032,
+        0
+      ],
+      [
+        87.70447659678656,
+        0
+      ],
+      [
+        120.96277553226263,
+        0
+      ],
+      [
+        154.25221383811441,
+        0
+      ],
+      [
+        292.98575275108794,
+        0
+      ],
+      [
+        340.6300573074013,
+        0
+      ],
+      [
+        377.329410756463,
+        0
+      ],
+      [
+        553.5916906210499,
+        0
+      ],
+      [
+        1440.0,
+        0
+      ]
+    ],
+    "strategy_name": "failure_hrrn_preempt_failure",
+    "simulation_duration": 480,
+    "random_seed": null
+  },
+  "preemption_hrrn_preempt_intensive": {
+    "high_avg_wait_time": 67.12909043432197,
+    "high_p95_wait_time": 208.57171244760366,
+    "high_completion_rate": 0.7777777777777778,
+    "normal_max_wait_time": 0.0,
+    "normal_wait_time_variance": 0.0,
+    "starving_jobs_count": 0,
+    "normal_completion_rate": 0.0,
+    "avg_utilization": 0.6,
+    "peak_utilization": 1.0,
+    "total_preemptions": 0,
+    "total_failures": 0,
+    "utilization_timeline": [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        63.22302970219134,
+        0.8
+      ],
+      [
+        114.9007070761799,
+        0.6
+      ],
+      [
+        150.75604505305083,
+        0.6
+      ],
+      [
+        230.99271401945015,
+        0.2
+      ],
+      [
+        367.322043949614,
+        0.6
+      ],
+      [
+        431.90004848014155,
+        1.0
+      ],
+      [
+        480.0,
+        1.0
+      ]
+    ],
+    "queue_length_timeline": [
+      [
+        0.0,
+        0
+      ],
+      [
+        63.22302970219134,
+        0
+      ],
+      [
+        114.9007070761799,
+        1
+      ],
+      [
+        150.75604505305083,
+        0
+      ],
+      [
+        230.99271401945015,
+        1
+      ],
+      [
+        367.322043949614,
+        1
+      ],
+      [
+        431.90004848014155,
+        1
+      ],
+      [
+        480.0,
+        0
+      ]
+    ],
+    "strategy_name": "preemption_hrrn_preempt_intensive",
+    "simulation_duration": 480,
+    "random_seed": null
+  }
+}
